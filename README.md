@@ -50,8 +50,8 @@
      
 #### For more details on the legality and rules on Web-Scraping, refer the below sources:
 
-          Waterman, T. (2020, January 29). Web scraping is now legal - Here's what that means for Data Scientists. Retrieved from 
-               https://medium.com/@tjwaterman99/web-scraping-is-now-legal-6bf0e5730a78
+   Waterman, T. (2020, January 29). Web scraping is now legal - Here's what that means for Data Scientists. Retrieved from 
+     https://medium.com/@tjwaterman99/web-scraping-is-now-legal-6bf0e5730a78
 
-          Bernard, B. (2017, April 18). Web Scraping and Crawling Are Perfectly Legal, Right? Retrieved from 
-               https://benbernardblog.com/web-scraping-and-crawling-are-perfectly-legal-right/
+   Bernard, B. (2017, April 18). Web Scraping and Crawling Are Perfectly Legal, Right? Retrieved from 
+     https://benbernardblog.com/web-scraping-and-crawling-are-perfectly-legal-right/
